@@ -123,7 +123,7 @@ author:
 
     - label: “Mohammadreza.tabatabaei@stu.mmu.ac.uk”
       icon: "fas fa-fw fa-envelope-square"
-      # url: "mailto: “mohammadreza.tabatabaei@stu.mmu.ac.uk”
+      # url: "mohammadreza.tabatabaei@stu.mmu.ac.uk”
 
     - label: "Website"
       icon: "fas fa-fw fa-link"
@@ -145,7 +145,8 @@ author:
 footer:
   links:
     - label: GitHub
-      icon:   
+      icon: https:/github.com/mohammadreza-tabatabaei
+   
       url: https:/github.com/mohammadreza-tabatabaei
     
 

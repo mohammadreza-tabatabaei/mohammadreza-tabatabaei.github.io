@@ -22,7 +22,7 @@ title_separator          : "-"
 subtitle                 : Experienced AI Engineer
 name                     : Mohammadreza Tabatabaei
 description              : "Experienced AI Engineer with a strong background in developing innovative machine learning models and deploying scalable solutions. Proficient in Python, TensorFlow, and data analysis, with a proven track record of delivering impactful projects in various domains. Passionate about leveraging AI to solve complex problems and drive efficiency. Committed to continuous learning and collaboration in dynamic environments."
-url                      : https:/github.com/mohammadreza-tabatabaei
+url                      : “https:/github.com/mohammadreza-tabatabaei”
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
@@ -117,13 +117,14 @@ author:
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "I am an **amazing** person."
   location         : "Somewhere"
-  email            : mohammadreza.tabatabaei@stu.mmu.ac.uk
+  email            : “mohammadreza.tabatabaei@stu.mmu.ac.uk”
 
-  links: mohammadreza.tabatabaei@stu.mmu.ac.uk
+  links: “mohammadreza.tabatabaei@stu.mmu.ac.uk”
 
-    - label: Mohammadreza.tabatabaei@stu.mmu.ac.uk
+    - label: “Mohammadreza.tabatabaei@stu.mmu.ac.uk”
       icon: "fas fa-fw fa-envelope-square"
-      # url: "mailto:your.name@email.com"
+      # url: "mailto: “mohammadreza.tabatabaei@stu.mmu.ac.uk”
+
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"

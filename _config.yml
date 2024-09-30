@@ -21,8 +21,7 @@ title                    : "My Portfolio"
 title_separator          : "-"
 subtitle                 : # AI engineer
 name                     : "Mohammadreza Tabatabaei"
-description              : "Experienced AI Engineer with a strong background in developing innovative machine learning models and deploying scalable solutions. Proficient in Python, TensorFlow, and data analysis, with a proven track record of delivering impactful projects in various domains. Passionate about leveraging AI to solve complex problems and drive efficiency. Committed to continuous learning and collaboration in dynamic environments.
-"
+description              : "Experienced AI Engineer with a strong background in developing innovative machine learning models and deploying scalable solutions. Proficient in Python, TensorFlow, and data analysis, with a proven track record of delivering impactful projects in various domains. Passionate about leveraging AI to solve complex problems and drive efficiency. Committed to continuous learning and collaboration in dynamic environments."
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"

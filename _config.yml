@@ -147,9 +147,9 @@ footer:
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
       # url:
-    - label: "GitHub"
-      icon:  https:/github.com/mohammadreza-tabatabaei
-      # url:
+    - label: GitHub
+      icon:   
+      # url: https:/github.com/mohammadreza-tabatabaei
     - label: "GitLab"
       icon: "fab fa-fw fa-gitlab"
       # url:

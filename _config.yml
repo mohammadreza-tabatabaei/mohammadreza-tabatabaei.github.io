@@ -19,7 +19,7 @@ locale                   : "en-US"
 rtl                      : # true, false (default) # turns direction of the page into right to left for RTL languages
 title                    : "My Portfolio"
 title_separator          : "-"
-subtitle                 : # AI engineer
+subtitle                 : # Experienced AI engineer
 name                     : "Mohammadreza Tabatabaei"
 description              : "Experienced AI Engineer with a strong background in developing innovative machine learning models and deploying scalable solutions. Proficient in Python, TensorFlow, and data analysis, with a proven track record of delivering impactful projects in various domains. Passionate about leveraging AI to solve complex problems and drive efficiency. Committed to continuous learning and collaboration in dynamic environments."
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
@@ -43,7 +43,7 @@ comments:
     # https://developers.facebook.com/docs/plugins/comments
     appid                :
     num_posts            : # 5 (default)
-    colorscheme          : # "light" (default), "dark"
+    colorscheme          : # "dark"
   utterances:
     theme                : # "github-light" (default), "github-dark"
     issue_term           : # "pathname" (default)
@@ -113,7 +113,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "Mohammadreza Tabatabaei"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "I am an **amazing** person."
   location         : "Somewhere"

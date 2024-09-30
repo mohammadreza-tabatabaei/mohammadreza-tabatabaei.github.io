@@ -6,10 +6,9 @@ categories: jekyll update
 ---
 Experienced AI Engineer with a strong background in developing innovative machine learning models and deploying scalable solutions. Proficient in Python, TensorFlow, and data analysis, with a proven track record of delivering impactful projects in various domains. Passionate about leveraging AI to solve complex problems and drive efficiency. Committed to continuous learning and collaboration in dynamic environments.
 
-`2024-09-30-My Projects`
 
-You can see all my projects on my github page:https://github.com/mohammadreza-tabatabaei/mohammadreza-tabatabaei.github.io.git
+You can see some of my projects on my github page: https:/github.com/mohammadreza-tabatabaei
 
 My email address : mohammadreza.tabatabaei@stu.mmu.ac.uk
 
-My phone is:07301780941
+My phone : 07301780941

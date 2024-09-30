@@ -1,36 +1,37 @@
-# Welcome to Jekyll!
+# Welcome to My portfolio!
 #
 # This config file is meant for settings that affect your entire site, values
 # which you are expected to set up once and rarely need to edit after that.
 # For technical reasons, this file is *NOT* reloaded automatically when you use
-# `jekyll serve`. If you change this file, please restart the server process.
+# jekyll serve. If you change this file, please restart the server process.
 
 # Theme Settings
 #
-# Review documentation to determine if you should use `theme` or `remote_theme`
+# Review documentation to determine if you should use theme
 # https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/#installing-the-theme
 
-# theme                  : "minimal-mistakes-jekyll"
-# remote_theme           : "mmistakes/minimal-mistakes"
-minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+# theme                  : minimal-mistakes-jekyll
+
+# remote_theme           : minimal-mistakes-jekyll
+minimal_mistakes_skin    : default
 
 # Site Settings
-locale                   : "en-US"
-rtl                      : # true, false (default) # turns direction of the page into right to left for RTL languages
-title                    : "Site Title"
-title_separator          : "-"
-subtitle                 : # site tagline that appears below site title in masthead
-name                     : "Your Name"
-description              : "An amazing website."
-url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+locale                   : UK
+rtl                      : false
+title                    : My Portfolio
+title_separator          : -
+subtitle                 : AI Engineer
+name                     : Mohammadreza Tabatabaei
+description              : Experienced AI Engineer with a strong background in developing innovative machine learning models and deploying scalable solutions. Proficient in Python, TensorFlow, and data analysis, with a proven track record of delivering impactful projects in various domains. Passionate about leveraging AI to solve complex problems and drive efficiency. Committed to continuous learning and collaboration in dynamic environments.
+url                      : # https://mmistakes.github.io
 baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
+repository               : https://github.com/mohammadreza-tabatabaei/mohammadreza-tabatabaei.github.io.git"mmistakes/minimal-mistakes
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
-breadcrumbs              : # true, false (default)
+breadcrumbs              : # false 
 words_per_minute         : 200
-enable_copy_code_button  : # true, false (default)
+enable_copy_code_button  : # false
 copyright                : # "copyright" name, defaults to site.title
 copyright_url            : # "copyright" URL, defaults to site.url
 comments:
@@ -43,20 +44,20 @@ comments:
     # https://developers.facebook.com/docs/plugins/comments
     appid                :
     num_posts            : # 5 (default)
-    colorscheme          : # "light" (default), "dark"
+    colorscheme          : # light
   utterances:
-    theme                : # "github-light" (default), "github-dark"
+    theme                : # github-light
     issue_term           : # "pathname" (default)
   giscus:
     repo_id              : # Shown during giscus setup at https://giscus.app
     category_name        : # Full text name of the category
     category_id          : # Shown during giscus setup at https://giscus.app
-    discussion_term      : # "pathname" (default), "url", "title", "og:title"
-    reactions_enabled    : # '1' for enabled (default), '0' for disabled
-    theme                : # "light" (default), "dark", "dark_dimmed", "transparent_dark", "preferred_color_scheme"
-    strict               : # 1 for enabled, 0 for disabled (default)
-    input_position       : # "top", "bottom" # The comment input box will be placed above or below the comments
-    emit_metadata        : # 1 for enabled, 0 for disabled (default) # https://github.com/giscus/giscus/blob/main/ADVANCED-USAGE.md#imetadatamessage
+    discussion_term      : # pathname
+    reactions_enabled    : # 1
+    theme                : # light
+    strict               : # 0
+    input_position       : # top
+    emit_metadata        : # 0 https://github.com/giscus/giscus/blob/main/ADVANCED-USAGE.md#imetadatamessage
     lang                 : # "en" (default)
     lazy                 : # true, false # Loading of the comments will be deferred until the user scrolls near the comments container.
   staticman:
@@ -113,13 +114,13 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : Mohammadreza Tabatabaei
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "I am an **amazing** person."
   location         : "Somewhere"
   email            :
   links:
-    - label: "Email"
+    - label: Mohammadreza.tabatabaei@stu.mmu.ac.uk
       icon: "fas fa-fw fa-envelope-square"
       # url: "mailto:your.name@email.com"
     - label: "Website"
@@ -323,3 +324,5 @@ defaults:
       comments: # true
       share: true
       related: true
+
+

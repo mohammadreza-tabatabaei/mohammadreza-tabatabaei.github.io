@@ -10,17 +10,17 @@
 # Review documentation to determine if you should use `theme` or `remote_theme`
 # https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/#installing-the-theme
 
-# theme                  : minimal-mistakes-jekyll
+# theme                  : "minimal-mistakes-jekyll"
 # remote_theme           : "mmistakes/minimal-mistakes"
 minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
 locale                   : "en-US"
 rtl                      : # true, false (default) # turns direction of the page into right to left for RTL languages
-title                    : My Portfolio
+title                    : "My Portfolio"
 title_separator          : "-"
-subtitle                 :  AI engineer
-name                     : Mohammadreza Tabatabaei
+subtitle                 : # AI engineer
+name                     : "Mohammadreza Tabatabaei"
 description              : "Experienced AI Engineer with a strong background in developing innovative machine learning models and deploying scalable solutions. Proficient in Python, TensorFlow, and data analysis, with a proven track record of delivering impactful projects in various domains. Passionate about leveraging AI to solve complex problems and drive efficiency. Committed to continuous learning and collaboration in dynamic environments."
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
@@ -119,7 +119,7 @@ author:
   location         : "Somewhere"
   email            :
   links:
-    - label: "Email"
+    - label: "Mohammadreza.tabatabaei@stu.mmu.ac.uk"
       icon: "fas fa-fw fa-envelope-square"
       # url: "mailto:your.name@email.com"
     - label: "Website"

@@ -117,9 +117,10 @@ author:
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "I am an **amazing** person."
   location         : "Somewhere"
-  email            :
+  email            : mohammadreza.tabatabaei@stu.mmu.ac.uk
+
   links:
-    - label: "Mohammadreza.tabatabaei@stu.mmu.ac.uk"
+    - label: Mohammadreza.tabatabaei@stu.mmu.ac.uk
       icon: "fas fa-fw fa-envelope-square"
       # url: "mailto:your.name@email.com"
     - label: "Website"
@@ -141,24 +142,10 @@ author:
 # Site Footer
 footer:
   links:
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      # url:
-    - label: "Facebook"
-      icon: "fab fa-fw fa-facebook-square"
-      # url:
     - label: GitHub
       icon:   
-      # url: https:/github.com/mohammadreza-tabatabaei
-    - label: "GitLab"
-      icon: "fab fa-fw fa-gitlab"
-      # url:
-    - label: "Bitbucket"
-      icon: "fab fa-fw fa-bitbucket"
-      # url:
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      # url:
+      url: https:/github.com/mohammadreza-tabatabaei
+    
 
 
 # Reading Files
